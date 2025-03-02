@@ -255,15 +255,7 @@ input {
   background-color: #6b6b6b09;
 }
 
-.login-content {
-  position: sticky;
-  height: 550px;
-  background: url(images/login.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  margin-bottom: 200px;
-  background-color: #6b6b6b09;
-}
+
 
 
 .contain-er {
@@ -373,7 +365,15 @@ textarea {
 
 /* login */
 
-
+.login-content {
+  position: sticky;
+  height: 550px;
+  background: url(images/login.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 120px;
+  background-color: #6b6b6b09;
+}
 
 .account-hover:hover {
   text-decoration: underline;
